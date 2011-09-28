@@ -11,7 +11,14 @@ namespace BroadcastServerDriver
         static void Main(string[] args)
         {
             BroadcastServer.BroadcastServer server = new BroadcastServer.BroadcastServer("input.txt");
-            server.sendFile(args[0]);
+            if (args.Length > 0)
+            {
+                server.sendFile(args[0]);
+            }
+            else
+            {
+                server.sendFile("192.168.0.255");
+            }
         }
     }
 }
