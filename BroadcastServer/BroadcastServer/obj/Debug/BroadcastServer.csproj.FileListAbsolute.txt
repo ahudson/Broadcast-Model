@@ -1,0 +1,7 @@
+c:\users\napkin\documents\visual studio 2010\Projects\BroadcastServer\BroadcastServer\obj\Debug\ResolveAssemblyReference.cache
+c:\users\napkin\documents\visual studio 2010\Projects\BroadcastServer\BroadcastServer\bin\Debug\BroadcastServer.dll
+c:\users\napkin\documents\visual studio 2010\Projects\BroadcastServer\BroadcastServer\bin\Debug\BroadcastServer.pdb
+c:\users\napkin\documents\visual studio 2010\Projects\BroadcastServer\BroadcastServer\obj\Debug\BroadcastServer.dll
+c:\users\napkin\documents\visual studio 2010\Projects\BroadcastServer\BroadcastServer\obj\Debug\BroadcastServer.pdb
+C:\Users\Napkin\Documents\Visual Studio 2010\Projects\BroadcastServer\BroadcastServer\bin\Debug\BroadcastClient.dll
+C:\Users\Napkin\Documents\Visual Studio 2010\Projects\BroadcastServer\BroadcastServer\bin\Debug\BroadcastClient.pdb

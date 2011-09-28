@@ -11,7 +11,7 @@ namespace BroadcastServerDriver
         static void Main(string[] args)
         {
             BroadcastServer.BroadcastServer server = new BroadcastServer.BroadcastServer("input.txt");
-            server.sendFile();
+            server.sendFile(args[0]);
         }
     }
 }
