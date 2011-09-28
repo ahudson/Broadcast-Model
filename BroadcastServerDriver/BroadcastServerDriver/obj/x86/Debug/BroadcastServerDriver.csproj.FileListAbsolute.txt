@@ -1,0 +1,7 @@
+c:\users\napkin\documents\visual studio 2010\Projects\BroadcastServerDriver\BroadcastServerDriver\bin\Debug\BroadcastServerDriver.exe
+c:\users\napkin\documents\visual studio 2010\Projects\BroadcastServerDriver\BroadcastServerDriver\bin\Debug\BroadcastServerDriver.pdb
+c:\users\napkin\documents\visual studio 2010\Projects\BroadcastServerDriver\BroadcastServerDriver\bin\Debug\BroadcastServer.dll
+c:\users\napkin\documents\visual studio 2010\Projects\BroadcastServerDriver\BroadcastServerDriver\bin\Debug\BroadcastServer.pdb
+c:\users\napkin\documents\visual studio 2010\Projects\BroadcastServerDriver\BroadcastServerDriver\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\napkin\documents\visual studio 2010\Projects\BroadcastServerDriver\BroadcastServerDriver\obj\x86\Debug\BroadcastServerDriver.exe
+c:\users\napkin\documents\visual studio 2010\Projects\BroadcastServerDriver\BroadcastServerDriver\obj\x86\Debug\BroadcastServerDriver.pdb
